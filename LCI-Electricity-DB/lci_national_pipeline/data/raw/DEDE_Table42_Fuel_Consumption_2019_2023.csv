@@ -1,0 +1,96 @@
+﻿source,source_table,reference_year,category_th,flow_name_th,flow_name_en,raw_value,amount,unit,data_role,notes
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2019,ถ่านหิน,Anthracite,Anthracite,-,,"1,000 tons",FUEL_INPUT,No quantity reported in source table.
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2020,ถ่านหิน,Anthracite,Anthracite,-,,"1,000 tons",FUEL_INPUT,No quantity reported in source table.
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2021,ถ่านหิน,Anthracite,Anthracite,-,,"1,000 tons",FUEL_INPUT,No quantity reported in source table.
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2022,ถ่านหิน,Anthracite,Anthracite,-,,"1,000 tons",FUEL_INPUT,No quantity reported in source table.
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2023,ถ่านหิน,Anthracite,Anthracite,-,,"1,000 tons",FUEL_INPUT,No quantity reported in source table.
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2019,ถ่านหิน,บิทูมินัส,Bituminous,"5,110",5110,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2020,ถ่านหิน,บิทูมินัส,Bituminous,"5,286",5286,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2021,ถ่านหิน,บิทูมินัส,Bituminous,"4,698",4698,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2022,ถ่านหิน,บิทูมินัส,Bituminous,"4,731",4731,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2023,ถ่านหิน,บิทูมินัส,Bituminous,"3,661",3661,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2019,ถ่านหิน,ลิกไนต์,Lignite,"13,761",13761,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2020,ถ่านหิน,ลิกไนต์,Lignite,"13,223",13223,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2021,ถ่านหิน,ลิกไนต์,Lignite,"14,245",14245,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2022,ถ่านหิน,ลิกไนต์,Lignite,"13,659",13659,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2023,ถ่านหิน,ลิกไนต์,Lignite,"12,743",12743,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2019,ถ่านหิน,ถ่านอัดและอื่น ๆ,Briquettes & Other Coal,"1,181",1181,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2020,ถ่านหิน,ถ่านอัดและอื่น ๆ,Briquettes & Other Coal,"1,240",1240,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2021,ถ่านหิน,ถ่านอัดและอื่น ๆ,Briquettes & Other Coal,"1,102",1102,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2022,ถ่านหิน,ถ่านอัดและอื่น ๆ,Briquettes & Other Coal,"1,146",1146,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2023,ถ่านหิน,ถ่านอัดและอื่น ๆ,Briquettes & Other Coal,887,887,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2019,น้ำมันสำเร็จรูป,น้ำมันดีเซลหมุนเร็ว,HSD,40,40,Million Litres,FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2020,น้ำมันสำเร็จรูป,น้ำมันดีเซลหมุนเร็ว,HSD,30,30,Million Litres,FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2021,น้ำมันสำเร็จรูป,น้ำมันดีเซลหมุนเร็ว,HSD,67,67,Million Litres,FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2022,น้ำมันสำเร็จรูป,น้ำมันดีเซลหมุนเร็ว,HSD,323,323,Million Litres,FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2023,น้ำมันสำเร็จรูป,น้ำมันดีเซลหมุนเร็ว,HSD,187,187,Million Litres,FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2019,น้ำมันสำเร็จรูป,น้ำมันเตา,Fuel Oil,26,26,Million Litres,FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2020,น้ำมันสำเร็จรูป,น้ำมันเตา,Fuel Oil,29,29,Million Litres,FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2021,น้ำมันสำเร็จรูป,น้ำมันเตา,Fuel Oil,98,98,Million Litres,FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2022,น้ำมันสำเร็จรูป,น้ำมันเตา,Fuel Oil,26,26,Million Litres,FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2023,น้ำมันสำเร็จรูป,น้ำมันเตา,Fuel Oil,3,3,Million Litres,FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2019,ก๊าซธรรมชาติ,ก๊าซธรรมชาติ,Natural Gas,"1,091,779",1091779,MMSCF,FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2020,ก๊าซธรรมชาติ,ก๊าซธรรมชาติ,Natural Gas,"1,023,106",1023106,MMSCF,FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2021,ก๊าซธรรมชาติ,ก๊าซธรรมชาติ,Natural Gas,"1,022,759",1022759,MMSCF,FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2022,ก๊าซธรรมชาติ,ก๊าซธรรมชาติ,Natural Gas,"901,908",901908,MMSCF,FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2023,ก๊าซธรรมชาติ,ก๊าซธรรมชาติ,Natural Gas,"1,014,238",1014238,MMSCF,FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2019,พลังงานหมุนเวียน,แสงอาทิตย์,Solar,"5,146",5146,GWh,ELECTRICITY_OUTPUT,"Reported as electricity generation, not physical fuel input."
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2020,พลังงานหมุนเวียน,แสงอาทิตย์,Solar,"5,031",5031,GWh,ELECTRICITY_OUTPUT,"Reported as electricity generation, not physical fuel input."
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2021,พลังงานหมุนเวียน,แสงอาทิตย์,Solar,"5,015",5015,GWh,ELECTRICITY_OUTPUT,"Reported as electricity generation, not physical fuel input."
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2022,พลังงานหมุนเวียน,แสงอาทิตย์,Solar,"5,152",5152,GWh,ELECTRICITY_OUTPUT,"Reported as electricity generation, not physical fuel input."
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2023,พลังงานหมุนเวียน,แสงอาทิตย์,Solar,"5,436",5436,GWh,ELECTRICITY_OUTPUT,"Reported as electricity generation, not physical fuel input."
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2019,พลังงานหมุนเวียน,ลม,Wind,"3,670",3670,GWh,ELECTRICITY_OUTPUT,"Reported as electricity generation, not physical fuel input."
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2020,พลังงานหมุนเวียน,ลม,Wind,"3,220",3220,GWh,ELECTRICITY_OUTPUT,"Reported as electricity generation, not physical fuel input."
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2021,พลังงานหมุนเวียน,ลม,Wind,"3,552",3552,GWh,ELECTRICITY_OUTPUT,"Reported as electricity generation, not physical fuel input."
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2022,พลังงานหมุนเวียน,ลม,Wind,"3,036",3036,GWh,ELECTRICITY_OUTPUT,"Reported as electricity generation, not physical fuel input."
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2023,พลังงานหมุนเวียน,ลม,Wind,"3,519",3519,GWh,ELECTRICITY_OUTPUT,"Reported as electricity generation, not physical fuel input."
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2019,พลังงานหมุนเวียน,พลังงานน้ำขนาดเล็ก,Small Hydro,441,441,GWh,ELECTRICITY_OUTPUT,Footnote 1: includes hydro power plants <= 12 MW and hydro power plants using water downstream.
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2020,พลังงานหมุนเวียน,พลังงานน้ำขนาดเล็ก,Small Hydro,348,348,GWh,ELECTRICITY_OUTPUT,Footnote 1: includes hydro power plants <= 12 MW and hydro power plants using water downstream.
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2021,พลังงานหมุนเวียน,พลังงานน้ำขนาดเล็ก,Small Hydro,474,474,GWh,ELECTRICITY_OUTPUT,Footnote 1: includes hydro power plants <= 12 MW and hydro power plants using water downstream.
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2022,พลังงานหมุนเวียน,พลังงานน้ำขนาดเล็ก,Small Hydro,637,637,GWh,ELECTRICITY_OUTPUT,Footnote 1: includes hydro power plants <= 12 MW and hydro power plants using water downstream.
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2023,พลังงานหมุนเวียน,พลังงานน้ำขนาดเล็ก,Small Hydro,555,555,GWh,ELECTRICITY_OUTPUT,Footnote 1: includes hydro power plants <= 12 MW and hydro power plants using water downstream.
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2019,พลังงานหมุนเวียน,พลังงานน้ำขนาดใหญ่,Large Hydro,"6,005",6005,GWh,ELECTRICITY_OUTPUT,Footnote 2: includes hydro power plants > 12 MW and hydro power plant (Lamtakong Dam).
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2020,พลังงานหมุนเวียน,พลังงานน้ำขนาดใหญ่,Large Hydro,"4,333",4333,GWh,ELECTRICITY_OUTPUT,Footnote 2: includes hydro power plants > 12 MW and hydro power plant (Lamtakong Dam).
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2021,พลังงานหมุนเวียน,พลังงานน้ำขนาดใหญ่,Large Hydro,"4,208",4208,GWh,ELECTRICITY_OUTPUT,Footnote 2: includes hydro power plants > 12 MW and hydro power plant (Lamtakong Dam).
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2022,พลังงานหมุนเวียน,พลังงานน้ำขนาดใหญ่,Large Hydro,"6,153",6153,GWh,ELECTRICITY_OUTPUT,Footnote 2: includes hydro power plants > 12 MW and hydro power plant (Lamtakong Dam).
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2023,พลังงานหมุนเวียน,พลังงานน้ำขนาดใหญ่,Large Hydro,"6,203",6203,GWh,ELECTRICITY_OUTPUT,Footnote 2: includes hydro power plants > 12 MW and hydro power plant (Lamtakong Dam).
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2019,พลังงานหมุนเวียน,พลังงานความร้อนใต้พิภพ,Geothermal,1,1,GWh,ELECTRICITY_OUTPUT,"Reported as electricity generation, not physical fuel input."
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2020,พลังงานหมุนเวียน,พลังงานความร้อนใต้พิภพ,Geothermal,1,1,GWh,ELECTRICITY_OUTPUT,"Reported as electricity generation, not physical fuel input."
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2021,พลังงานหมุนเวียน,พลังงานความร้อนใต้พิภพ,Geothermal,1,1,GWh,ELECTRICITY_OUTPUT,"Reported as electricity generation, not physical fuel input."
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2022,พลังงานหมุนเวียน,พลังงานความร้อนใต้พิภพ,Geothermal,1,1,GWh,ELECTRICITY_OUTPUT,"Reported as electricity generation, not physical fuel input."
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2023,พลังงานหมุนเวียน,พลังงานความร้อนใต้พิภพ,Geothermal,1,1,GWh,ELECTRICITY_OUTPUT,"Reported as electricity generation, not physical fuel input."
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2019,พลังงานหมุนเวียน,แกลบ,Paddy Husk,"2,105",2105,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2020,พลังงานหมุนเวียน,แกลบ,Paddy Husk,"2,048",2048,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2021,พลังงานหมุนเวียน,แกลบ,Paddy Husk,"2,772",2772,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2022,พลังงานหมุนเวียน,แกลบ,Paddy Husk,"2,946",2946,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2023,พลังงานหมุนเวียน,แกลบ,Paddy Husk,"3,292",3292,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2019,พลังงานหมุนเวียน,กากอ้อย,Bagasse,"26,835",26835,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2020,พลังงานหมุนเวียน,กากอ้อย,Bagasse,"23,352",23352,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2021,พลังงานหมุนเวียน,กากอ้อย,Bagasse,"24,026",24026,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2022,พลังงานหมุนเวียน,กากอ้อย,Bagasse,"26,010",26010,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2023,พลังงานหมุนเวียน,กากอ้อย,Bagasse,"29,931",29931,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2019,พลังงานหมุนเวียน,วัสดุเหลือใช้ทางการเกษตร,Agricultural Waste,"8,617",8617,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2020,พลังงานหมุนเวียน,วัสดุเหลือใช้ทางการเกษตร,Agricultural Waste,"8,902",8902,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2021,พลังงานหมุนเวียน,วัสดุเหลือใช้ทางการเกษตร,Agricultural Waste,"9,677",9677,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2022,พลังงานหมุนเวียน,วัสดุเหลือใช้ทางการเกษตร,Agricultural Waste,"9,936",9936,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2023,พลังงานหมุนเวียน,วัสดุเหลือใช้ทางการเกษตร,Agricultural Waste,"14,265",14265,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2019,พลังงานหมุนเวียน,แบล็คลิเคียว,Black Liquor,-,,GJ,FUEL_INPUT,Source note 3: includes black liquor and residual gas in Other Energy for 2019-2021; do not split those historical aggregates.
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2020,พลังงานหมุนเวียน,แบล็คลิเคียว,Black Liquor,-,,GJ,FUEL_INPUT,Source note 3: includes black liquor and residual gas in Other Energy for 2019-2021; do not split those historical aggregates.
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2021,พลังงานหมุนเวียน,แบล็คลิเคียว,Black Liquor,-,,GJ,FUEL_INPUT,Source note 3: includes black liquor and residual gas in Other Energy for 2019-2021; do not split those historical aggregates.
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2022,พลังงานหมุนเวียน,แบล็คลิเคียว,Black Liquor,"13,896,679",13896679,GJ,FUEL_INPUT,Source note 3: includes black liquor and residual gas in Other Energy for 2019-2021; do not split those historical aggregates.
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2023,พลังงานหมุนเวียน,แบล็คลิเคียว,Black Liquor,"13,973,049",13973049,GJ,FUEL_INPUT,Source note 3: includes black liquor and residual gas in Other Energy for 2019-2021; do not split those historical aggregates.
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2019,พลังงานหมุนเวียน,ขยะ,MSW,890,890,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2020,พลังงานหมุนเวียน,ขยะ,MSW,"1,249",1249,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2021,พลังงานหมุนเวียน,ขยะ,MSW,"1,490",1490,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2022,พลังงานหมุนเวียน,ขยะ,MSW,"5,080",5080,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2023,พลังงานหมุนเวียน,ขยะ,MSW,"5,696",5696,"1,000 tons",FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2019,พลังงานหมุนเวียน,ก๊าซชีวภาพ,Biogas,"1,319,121,140",1319121140,m3,FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2020,พลังงานหมุนเวียน,ก๊าซชีวภาพ,Biogas,"1,054,201,606",1054201606,m3,FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2021,พลังงานหมุนเวียน,ก๊าซชีวภาพ,Biogas,"1,161,467,101",1161467101,m3,FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2022,พลังงานหมุนเวียน,ก๊าซชีวภาพ,Biogas,"1,230,474,539",1230474539,m3,FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2023,พลังงานหมุนเวียน,ก๊าซชีวภาพ,Biogas,"960,697,617",960697617,m3,FUEL_INPUT,
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2019,พลังงานอื่น ๆ,พลังงานอื่น ๆ,Other Energy,"19,842,988",19842988,GJ,FUEL_INPUT,Source note 3: includes black liquor and residual gas in 2019-2021; do not split those historical aggregates.
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2020,พลังงานอื่น ๆ,พลังงานอื่น ๆ,Other Energy,"17,228,533",17228533,GJ,FUEL_INPUT,Source note 3: includes black liquor and residual gas in 2019-2021; do not split those historical aggregates.
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2021,พลังงานอื่น ๆ,พลังงานอื่น ๆ,Other Energy,"19,251,302",19251302,GJ,FUEL_INPUT,Source note 3: includes black liquor and residual gas in 2019-2021; do not split those historical aggregates.
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2022,พลังงานอื่น ๆ,พลังงานอื่น ๆ,Other Energy,"3,131,850",3131850,GJ,FUEL_INPUT,Source note 3: includes black liquor and residual gas in 2019-2021; do not split those historical aggregates.
+DEDE,Table 42 - Fuel Consumption for Electric Generation,2023,พลังงานอื่น ๆ,พลังงานอื่น ๆ,Other Energy,"3,231,260",3231260,GJ,FUEL_INPUT,Source note 3: includes black liquor and residual gas in 2019-2021; do not split those historical aggregates.

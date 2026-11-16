@@ -1,0 +1,45 @@
+﻿check,year,de_de_value,eppo_value,difference_de_de_minus_eppo,status,note
+DEDE Hydro (Small+Large) vs EPPO Hydro Electricity,2019,6446,6309.958,136.042,WARNING_DIFFERENT_SOURCE_SCOPE,Retain both source values; difference is not forced to zero.
+DEDE Hydro (Small+Large) vs EPPO Hydro Electricity,2020,4681,4539.848,141.152,WARNING_DIFFERENT_SOURCE_SCOPE,Retain both source values; difference is not forced to zero.
+DEDE Hydro (Small+Large) vs EPPO Hydro Electricity,2021,4682,4539.992,142.008,WARNING_DIFFERENT_SOURCE_SCOPE,Retain both source values; difference is not forced to zero.
+DEDE Hydro (Small+Large) vs EPPO Hydro Electricity,2022,6790,6598.821,191.179,WARNING_DIFFERENT_SOURCE_SCOPE,Retain both source values; difference is not forced to zero.
+DEDE Hydro (Small+Large) vs EPPO Hydro Electricity,2023,6758,6588.214,169.786,WARNING_DIFFERENT_SOURCE_SCOPE,Retain both source values; difference is not forced to zero.
+EPPO CO2 component sum vs published Total,1987,16491.59,16491.59,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,1988,18380.01,18380.02,-0.01,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,1989,20770.80,20770.8,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,1990,28149.06,28149.07,-0.01,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,1991,34750.07,34750.07,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,1992,37798.50,37798.5,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,1993,40966.51,40966.51,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,1994,45558.75,45558.75,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,1995,49014.06,49014.06,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,1996,56887.37,56887.37,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,1997,61241.89,61241.89,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,1998,58012.24,58012.24,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,1999,59694.81,59694.81,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,2000,62436.90,62436.9,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,2001,62758.81,62758.81,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,2002,65268.65,65268.65,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,2003,67894.97,67894.97,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,2004,74119.42,74119.42,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,2005,76915.47,76915.47,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,2006,81056.95,81056.94,0.01,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,2007,83893.16,83893.15,0.01,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,2008,84534.17,84534.17,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,2009,83063.49,83063.5,-0.01,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,2010,90883.44,90883.44,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,2011,87001.67,87001.67,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,2012,95087.81,95087.81,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,2013,96355.07,96355.07,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,2014,99053.77,99053.77,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,2015,97539.12,97539.13,-0.01,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,2016,98403.93,98403.94,-0.01,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,2017,94675.96,94675.96,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,2018,93917.56,93917.56,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,2019,94529.81,94529.81,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,2020,90991.16,90991.16,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,2021,90854.82,90854.82,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,2022,89060.66,89060.65,0.01,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,2023,89310.94,89310.94,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,2024,93885.49,93885.49,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.
+EPPO CO2 component sum vs published Total,2025,87141.60,87141.6,0.00,PASS,Total is validation-only and is not loaded as an additional exchange.

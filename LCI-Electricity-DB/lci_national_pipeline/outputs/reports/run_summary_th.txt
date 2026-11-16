@@ -1,0 +1,12 @@
+ผลการทดสอบ Pipeline ด้วยไฟล์ต้นทางที่ได้รับ
+
+DEDE Table 42: 95 แถว, ปี 2019-2023, ค่าที่ไม่มีรายงาน 8 แถว (เก็บเป็น missing ไม่แทนด้วย 0)
+EPPO Electricity: 3,381 แถว, ปี 1986-2026
+EPPO CO2: 156 ค่า = 39 ปี x 4 คอลัมน์ (Oil, Coal/Lignite, Natural Gas, Total)
+
+Fatal errors: 0
+Warnings: 8 (ค่าต้นทางว่าง)
+Reconciliation checks: 44 รายการ (Hydro 5 ปี + CO2 39 ปี)
+Quality Gate: PASSED_WITH_WARNINGS
+
+หมายเหตุ: เป็นผลทดสอบในสภาพแวดล้อมจัดทำไฟล์ ไม่ใช่ผลรันบนเครื่องผู้ใช้หรือการยืนยันการ Load เข้า PostgreSQL

@@ -1,0 +1,14 @@
+DATA SCOPE LOCK
+- DEDE Table 42 annual fuel/resource input 2019-2023
+- EPPO monthly electricity generation 1986-2026 (existing dataset; verify/reconcile only)
+- EPPO annual CO2 emissions 1987-2025
+- EGAT remains separate and unchanged
+- No additional datasets in this sprint
+
+DATA MODEL RULES
+- Preserve original units and source values.
+- Blank / '-' is missing, never zero.
+- DEDE electricity outputs are reconciliation-only.
+- EPPO electricity generation is already in the database; no duplicate load.
+- CO2 Total is validation-only; only component flows are load candidates.
+- National annual data does not identify individual plants; no plant-level allocation.

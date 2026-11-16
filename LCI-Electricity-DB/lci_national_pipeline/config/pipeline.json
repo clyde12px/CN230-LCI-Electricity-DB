@@ -1,0 +1,77 @@
+{
+  "project_name": "Thailand Electricity Generation National LCI Data Pipeline",
+  "country": "Thailand",
+  "sources": {
+    "DEDE_FUEL": {
+      "source": "DEDE",
+      "dataset": "DEDE Table 42 - Fuel Consumption for Electric Generation",
+      "file": "DEDE_Table42_Fuel_Consumption_2019_2023.csv",
+      "format": "csv_dede",
+      "expected_rows": 95,
+      "year_min": 2019,
+      "year_max": 2023
+    },
+    "EPPO_ELECTRICITY": {
+      "source": "EPPO",
+      "dataset": "Electricity Generation by Energy Type",
+      "file": "การผลิตไฟฟ้าแยกตามชนิดเชื้อเพลิง(1)",
+      "format": "csv_monthly_electricity",
+      "expected_rows": 3381,
+      "year_min": 1986,
+      "year_max": 2026
+    },
+    "EPPO_CO2": {
+      "source": "EPPO",
+      "dataset": "Table 9.1-3Y - CO2 Emission in Power Generation by Energy Type",
+      "file": "T09_01_03-2.xls",
+      "format": "xls_annual_emission",
+      "sheet": "EMI3",
+      "expected_data_years": 39,
+      "year_min": 1987,
+      "year_max": 2025,
+      "unit": "1,000 Tons"
+    }
+  },
+  "mapping": {
+    "DEDE_FUEL": {
+      "Anthracite": {"flow_name": "Anthracite", "direction": "INPUT", "loadable": true},
+      "Bituminous": {"flow_name": "Bituminous Coal", "direction": "INPUT", "loadable": true},
+      "Lignite": {"flow_name": "Lignite", "direction": "INPUT", "loadable": true},
+      "Briquettes & Other Coal": {"flow_name": "Briquettes & Other Coal", "direction": "INPUT", "loadable": true},
+      "HSD": {"flow_name": "HSD", "direction": "INPUT", "loadable": true},
+      "Fuel Oil": {"flow_name": "Fuel Oil", "direction": "INPUT", "loadable": true},
+      "Natural Gas": {"flow_name": "Natural Gas", "direction": "INPUT", "loadable": true},
+      "Paddy Husk": {"flow_name": "Paddy Husk", "direction": "INPUT", "loadable": true},
+      "Bagasse": {"flow_name": "Bagasse", "direction": "INPUT", "loadable": true},
+      "Agricultural Waste": {"flow_name": "Agricultural Waste", "direction": "INPUT", "loadable": true},
+      "Black Liquor": {"flow_name": "Black Liquor", "direction": "INPUT", "loadable": true},
+      "MSW": {"flow_name": "Municipal Solid Waste", "direction": "INPUT", "loadable": true},
+      "Biogas": {"flow_name": "Biogas", "direction": "INPUT", "loadable": true},
+      "Other Energy": {"flow_name": "Other Energy", "direction": "INPUT", "loadable": true}
+    },
+    "EPPO_ELECTRICITY": {
+      "Hydro Electricity": {"flow_name": "Electricity - Hydro", "direction": "OUTPUT", "loadable": false},
+      "Fuel Oil": {"flow_name": "Electricity - Fuel Oil", "direction": "OUTPUT", "loadable": false},
+      "Coal & Lignite": {"flow_name": "Electricity - Coal & Lignite", "direction": "OUTPUT", "loadable": false},
+      "Natural Gas": {"flow_name": "Electricity - Natural Gas", "direction": "OUTPUT", "loadable": false},
+      "Diesel": {"flow_name": "Electricity - Diesel", "direction": "OUTPUT", "loadable": false},
+      "Imported": {"flow_name": "Electricity - Imported", "direction": "OUTPUT", "loadable": false},
+      "Renewable Energy": {"flow_name": "Electricity - Renewable Energy", "direction": "OUTPUT", "loadable": false}
+    },
+    "EPPO_CO2": {
+      "Oil": {"flow_name": "CO2 - Oil", "direction": "OUTPUT", "loadable": true, "compartment": "air"},
+      "Coal/Lignite": {"flow_name": "CO2 - Coal/Lignite", "direction": "OUTPUT", "loadable": true, "compartment": "air"},
+      "Natural Gas": {"flow_name": "CO2 - Natural Gas", "direction": "OUTPUT", "loadable": true, "compartment": "air"},
+      "Total": {"flow_name": "CO2 - Total (validation only)", "direction": "OUTPUT", "loadable": false, "validation_only": true}
+    }
+  },
+  "policy": {
+    "missing_values": "warning_not_zero",
+    "preserve_source_units": true,
+    "de_de_electricity_output": "reconciliation_only",
+    "eppo_electricity_existing_db": "verify_only_do_not_reload",
+    "egat_existing_db": "separate_unchanged",
+    "co2_total": "validation_only_do_not_load_with_components",
+    "annual_national_linkage": "accounting_level_only_not_plant_level"
+  }
+}

@@ -1,0 +1,8 @@
+DEDE_FUEL row 2: missing amount retained as missing, not zero
+DEDE_FUEL row 3: missing amount retained as missing, not zero
+DEDE_FUEL row 4: missing amount retained as missing, not zero
+DEDE_FUEL row 5: missing amount retained as missing, not zero
+DEDE_FUEL row 6: missing amount retained as missing, not zero
+DEDE_FUEL row 77: missing amount retained as missing, not zero
+DEDE_FUEL row 78: missing amount retained as missing, not zero
+DEDE_FUEL row 79: missing amount retained as missing, not zero
